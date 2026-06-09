@@ -9598,8 +9598,9 @@ blockquote {
 }
 
 .nw-sub-menu:hover {
-    color:white;
+    color:var(--green);
     text-decoration: underline;
+    cursor: pointer;
 }
 
 .mega-menu-wrapper {
